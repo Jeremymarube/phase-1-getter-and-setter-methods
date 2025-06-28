@@ -1,4 +1,3 @@
-// Add your Circle class here
 class Circle {
   constructor(radius) {
     this.radius = radius;
@@ -49,3 +48,4 @@ console.log(c.radius);         // ~10
 
 c.area = 314.159;
 console.log(c.radius);         // ~10
+
